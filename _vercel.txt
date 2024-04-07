@@ -1,0 +1,2 @@
+vc-domain-verify=code.bekinka.cz,ab383f5246fa4397a60b
+

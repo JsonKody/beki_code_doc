@@ -22,7 +22,7 @@ echo "Ahoj, Beki!"
 ```
 
 ```bash
-# Git: Tvůj časový stroj pro kód */
+# Git: Tvůj časový stroj pro kód
 git commit -m "Můj první krok na cestě kódování"
 ```
 
