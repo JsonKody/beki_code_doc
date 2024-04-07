@@ -104,3 +104,25 @@ CSS Grid umožňuje vytvářet dvourozměrné layouty. Je to mocný nástroj pro
 ```
 
 CSS je rozsáhlý jazyk s mnoha možnostmi. Tento cheat sheet pokrývá jen základy, ale existuje mnoho dalších vlastností a technik, které můžete prozkoumat.
+
+## Shrnutí
+
+- `color`: Nastavuje barvu textu.
+- `background-color`: Určuje barvu pozadí.
+- `font-size`: Definuje velikost písma.
+- `font-family`: Specifikuje typ písma.
+- `margin`: Určuje vnější odsazení okolo elementů.
+- `padding`: Nastavuje vnitřní odsazení uvnitř elementů.
+- `border`: Vytváří rám okolo elementů.
+
+### Flexbox
+
+- `display: flex;`: Aplikuje Flexbox model na kontejner.
+- `justify-content: center;`: Zarovnává položky vodorovně na střed.
+- `align-items: center;`: Zarovnává položky svisle na střed.
+
+### CSS Grid
+
+- `display: grid;`: Aplikuje Grid layout model na kontejner.
+- `grid-template-columns: auto auto auto;`: Definuje tři sloupce stejné šířky.
+- `gap: 10px;`: Nastavuje mezery mezi prvky.

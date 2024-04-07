@@ -92,3 +92,47 @@ Práce s terminálem může být mnohem efektivnější, pokud znáte několik k
 - **`Ctrl + K`**: Tato zkratka odstraní text od pozice kurzoru až po konec řádku. Je užitečná, pokud chcete zachovat část příkazu a odstranit jeho konec.
 
 Tyto zkratky vám mohou ušetřit čas a zvýšit vaši produktivitu při práci s terminálem. Zkuste je vyzkoušet a zjistěte, jak vám mohou usnadnit práci.
+
+
+## Shrnutí
+
+### Navigace a prohlížení
+
+- **`pwd`** (print working directory): Vypíše aktuální cestu adresáře, ve kterém se nacházíte.
+- **`cd`** (change directory): Změní aktuální adresář.
+  - `cd /cesta/do/složky`: Přechod do konkrétní složky.
+  - `cd ~`: Přechod do domovské složky.
+  - `cd ..`: Přechod o úroveň výše.
+- **`ls`** (list): Vypíše obsah aktuálního adresáře.
+  - `ls`: Základní výpis.
+  - `ls -l`: Detailní výpis.
+  - `ls -a`: Výpis včetně skrytých souborů.
+  - `ls -la`: Kombinace detailního výpisu a skrytých souborů.
+
+### Práce se soubory a složkami
+
+- **`mkdir`** (make directory): Vytvoří novou složku.
+- **`touch`**: Vytvoří nový soubor nebo aktualizuje časové razítko existujícího souboru.
+- **`rm`** (remove): Odstraní soubor nebo složku.
+  - `rm soubor.txt`: Odstraní soubor.
+  - `rm -r slozka`: Rekurzivně odstraní složku a její obsah.
+
+### Zobrazení a editace souborů
+
+- **`cat`**: Zobrazí obsah souboru.
+- **`nano`, `vi`, `vim`**: Textové editory pro práci s obsahem souborů.
+
+### Další užitečné příkazy
+
+- **`clear`**: Vyčistí obrazovku terminálu.
+
+### Základní klávesové zkratky pro terminál
+
+#### Čištění obrazovky
+
+- **`Ctrl + L`**: Vyčistí terminálovou obrazovku.
+
+#### Manipulace s textem
+
+- **`Ctrl + U`**: Odstraní text od aktuální pozice kurzoru po začátek řádku.
+- **`Ctrl + K`**: Odstraní text od pozice kurzoru po konec řádku.

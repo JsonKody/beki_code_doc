@@ -115,3 +115,31 @@ a uspořádané (`<ol>` .. ordered list), s položkami seznamu `<li>`.
 **HTML** obsahuje mnoho dalších tagů a atributů, které vám umožní vytvářet bohaté a interaktivní webové stránky. Jak budete pokračovat ve výuce **HTML**, narazíte na pokročilejší tagy a techniky, jako jsou formuláře, tabulky a další.
 
 Tento úvod pokrývá jen základy **HTML**, ale je důležitým krokem k pochopení, jak vytvářet a strukturovat webové stránky.
+
+## Shrnutí
+
+### Co je HTML tag?
+
+- Základní stavební blok webových stránek.
+- Má otevírací a zavírací tag, které obklopují obsah, nebo je samostatný s atributy.
+
+### Základní HTML struktura
+
+- `<!DOCTYPE html>`: Definuje typ dokumentu.
+- `<html>`: Kořenový element obalující celý dokument.
+- `<head>`: Obsahuje metadata a odkazy na externí zdroje.
+- `<title>`: Název stránky zobrazený v záložce prohlížeče.
+- `<body>`: Veškerý viditelný obsah stránky.
+
+### Základní HTML tagy
+
+- Nadpisy: `<h1>` až `<h6>`.
+- Odstavec: `<p>`.
+- Odkazy: `<a href="URL">`.
+- Obrázky: `<img src="url" alt="popis">`.
+- Seznamy: neuspořádané (`<ul>`) a uspořádané (`<ol>`), s položkami `<li>`.
+
+### Další tagy a atributy
+
+- HTML nabízí širokou škálu tagů a atributů pro tvorbu bohatých webových stránek.
+- Další studium odhalí pokročilejší tagy a techniky, jako jsou formuláře a tabulky.

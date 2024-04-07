@@ -107,3 +107,42 @@ Git sleduje změny ve vašich souborech ve formě "commitů", což jsou záznamy
 ## Závěr
 
 Git a GitHub jsou mocné nástroje pro správu verzí a spolupráci na softwarových projektech. Klíčem k úspěchu je pravidelné commitování změn, jasné psaní commit zpráv a efektivní používání vzdálených repozitářů pro sdílení a spolupráci. S těmito základy jste dobře vybaveni pro začátek práce s Git a GitHubem.
+
+## Shrnutí
+
+### Lokální Git operace
+
+- **`git init`**: Vytvoří nový git repozitář.
+- **`git status`**: Zobrazí stav souborů ve vašem repozitáři.
+- **`git add`**: Přidá soubory do staging area před commitováním.
+  - `git add <soubor>`: Přidá konkrétní soubor.
+  - `git add .`: Přidá všechny změněné soubory v aktuálním adresáři.
+  - `git add -A`: Přidá všechny změněné soubory v repozitáři.
+- **`git commit`**: Uloží připravené změny do repozitáře.
+  - `git commit -m "Popis změn"`: Vytvoří commit s popisem změn.
+- **`git log`**: Zobrazí historii commitů.
+
+### Spolupráce a sdílení přes GitHub
+
+- **`git remote add origin <URL_repositáře_na_GitHub>`**: Propojí váš lokální repozitář s vzdáleným repozitářem.
+- **`git push origin main`**: Odešle commity do vzdáleného repozitáře.
+- **`git pull`**: Aktualizuje lokální repozitář nejnovějšími změnami z vzdáleného repozitáře.
+
+### Jak Git funguje
+
+- **Staging Area**: Místo pro přípravu souborů před commitováním.
+- **Commit Message**: Popis změn v commitu.
+
+### Na co si dát pozor
+
+- Přidání souborů před commitováním.
+- Psaní jasných commit zpráv.
+
+### Oprava chyb
+
+- **`git commit --amend`**: Umožňuje sloučit zapomenuté soubory s posledním commit nebo upravit jeho zprávu.
+
+### Spolupráce na GitHubu
+
+- Využití vzdálených repozitářů pro sdílení a spolupráci.
+- Použití příkazů `git push` a `git pull` pro synchronizaci s GitHubem.
