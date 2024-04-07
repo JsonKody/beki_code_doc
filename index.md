@@ -5,14 +5,14 @@ layout: home
 hero:
   name: "Beki coding"
   text: "( ͡° ͜ʖ ͡°)"
-  tagline: Zápisník věcí o prográmku a tak ...
+  tagline: Dokumentace naseho programovani a tak ...
   actions:
     - theme: brand
-      text: Terminál
-      link: /terminal
+      text: Start
+      link: /basics/start
     - theme: alt
-      text: Git
-      link: /git
+      text: JS
+      link: /js/basics/hello_world
 
 # features:
 #   - title: Feature A
