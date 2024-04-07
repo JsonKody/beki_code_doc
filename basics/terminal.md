@@ -12,10 +12,10 @@ V shellu můžeme provádět mnoho operací, jako v grafickém uživatelském ro
 
 - **`pwd`** (print working directory) pokud chces vedet kde prave jsi zadat `pwd`
 
-```bash
-pwd
-/Users/beki
-```
+  ```bash
+  pwd
+  /Users/beki
+  ```
 
 - **`cd`** (change directory): Změní aktuální složku.
 
