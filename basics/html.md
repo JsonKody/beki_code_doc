@@ -19,6 +19,11 @@ Tag se skládá z:
 - **Jména tagu**: Říká, jaký typ obsahu tag reprezentuje (např. `p` pro odstavec, `img` pro obrázek).
 - **Atributů**: Poskytují další informace o tagu, jako jsou cesty k obrázkům nebo styly. Atributy mají formát `nazev="hodnota"`.
 
+```html
+<!-- Příklad struktury HTML tagu -->
+<jmeno-tagu atribut1="hodnota1" atribut2="hodnota2">Obsah tagu</jmeno-tagu>
+```
+
 ### Příklady
 
 **Párové tagy** mají otevírací a zavírací tag, které obklopují obsah:
